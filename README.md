@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & AI Enthusiast | Microsoft Student Ambassador | Postman Student Leader</h3>
 
 <p align="center">
-  I am a full-stack developer and graphic designer pursuing a degree in Artificial Intelligence from Adi Shankara Institute of Engineering and Technology. I'm passionate about developing AI-powered solutions. I am currently building a live LLM and a custom hybrid tokenizer with a vocabulary exceeding 200k tokens, surpassing GPT-4’s CL100K base tokenizer in performance. I am also working on my SaaS project, Mica, focused on AI tools for education.
+  I am a SDE - 2 c++/c dev and been a full stack developer for over 5+ years.I'm passionate about developing AI-powered solutions. I am currently building a live LLM and a custom hybrid tokenizer with a vocabulary exceeding 200k tokens, surpassing GPT-4’s CL100K base tokenizer in performance. I am also working on my SaaS project, Mica, focused on AI tools for education.
 </p>
 
 - 🔭 I’m currently working as a **Full Stack Developer at Mojo Web Technologies** and on personal **AI and SaaS projects**.
