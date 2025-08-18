@@ -4,6 +4,7 @@
 
 I am a Software Development Engineer (SDE-2) with over 5 years of professional experience and more than 10 years of software development contributions. As the founder of Cmakers and creator of multiple innovative projects, I specialize in full-stack development, systems programming, and cutting-edge AI research.
 
+
 ## Current Work & Research
 
 - **AI Research**: Published researcher in ML and AI with peer-reviewed work on DHGRPO (Domain-Induced Hierarchical Group Relative Policy Optimization) - a novel extension of Group Relative Policy Optimization for robust preference-based fine-tuning of large language models
@@ -11,6 +12,7 @@ I am a Software Development Engineer (SDE-2) with over 5 years of professional e
 - **Systems Architecture**: Developing new AI system architectures and low-level implementations
 
 ## Notable Projects & Achievements
+<img width="1363" height="660" alt="Screenshot 2025-08-18 at 6 04 10 PM" src="https://github.com/user-attachments/assets/997914f3-831b-4acf-ad83-e438619c3c62" />
 
 ### Open Source & Research
 - **[ForgeForm](https://www.forgeform.in/)**: Lightweight, TypeScript-first form validation library
