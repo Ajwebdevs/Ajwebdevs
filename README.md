@@ -9,7 +9,6 @@ I am a Software Development Engineer (SDE-2) with over 5 years of professional e
 - **AI Research**: Published researcher in ML and AI with peer-reviewed work on DHGRPO (Domain-Induced Hierarchical Group Relative Policy Optimization) - a novel extension of Group Relative Policy Optimization for robust preference-based fine-tuning of large language models
 - **Live LLM Development**: Building a custom large language model with a hybrid tokenizer featuring 200k+ vocabulary tokens, surpassing GPT-4's CL100K base tokenizer performance
 - **Systems Architecture**: Developing new AI system architectures and low-level implementations
-- **Full Stack Development**: Currently working at Mojo Web Technologies on Meta API integrations, Facebook games, and CMS systems
 
 ## Notable Projects & Achievements
 
