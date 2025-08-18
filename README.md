@@ -14,7 +14,7 @@ I am a Software Development Engineer (SDE-2) with over 5 years of professional e
 
 ### Open Source & Research
 - **[ForgeForm](https://www.forgeform.in/)**: Lightweight, TypeScript-first form validation library
-- **([NPM Package](https://www.npmjs.com/package/forgeform))
+- ([NPM Package](https://www.npmjs.com/package/forgeform))
 - **ElaCompiler**: Custom programming language and compiler implementation
 - **ajsos**: Unix-based experimental operating system
 - **ForgeReform**: NPM library for front-end code transformation
