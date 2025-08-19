@@ -2,7 +2,7 @@
 
 **Ml/AI Developer & AI Researcher | Microsoft Student Ambassador | Postman Student Leader**
 
-I am a Software Development Engineer (SDE-2) with over 5 years of professional experience and more than 10 years of software development contributions. As the founder of Cmakers and creator of multiple innovative projects, I specialize in full-stack development, systems programming, and cutting-edge AI research.
+I am a Software Development Engineer (SDE-2) with over 5 years of professional experience and more than 10 years of software development contributions. As the founder of Cmakers and creator of multiple innovative projects, I specialize in full-stack development, systems programming, and AI research.
 
 
 ## Current Work & Research
