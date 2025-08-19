@@ -84,7 +84,3 @@ I am a Software Development Engineer (SDE-2) with over 5 years of professional e
 **Note**: This is my new GitHub account. My previous account was unfortunately lost, but I'm continuing my open-source contributions and research here.
 
 **Current Focus**: Advancing AI research through novel optimization techniques while building scalable systems that push the boundaries of what's possible in machine learning and software development.
-
-<p align="center">
- <i>Always learning, always building, always innovating.</i>
-</p>
