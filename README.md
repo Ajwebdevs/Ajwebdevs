@@ -8,6 +8,7 @@ I am a Software Development Engineer (SDE-2) with over 5 years of professional e
 ## Current Work & Research
 
 - **AI Research**: Published researcher in ML and AI with peer-reviewed work on DHGRPO (Domain-Induced Hierarchical Group Relative Policy Optimization) - a novel extension of Group Relative Policy Optimization for robust preference-based fine-tuning of large language models
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16786368.svg)](https://doi.org/10.5281/zenodo.16786368)
 - **Live LLM Development**: Building a custom large language model with a hybrid tokenizer featuring 200k+ vocabulary tokens, surpassing GPT-4's CL100K base tokenizer performance
 - **Systems Architecture**: Developing new AI system architectures and low-level implementations
 
