@@ -3,7 +3,7 @@
 **Ml/AI Developer & AI Researcher | Microsoft Student Ambassador | Postman Student Leader**
 
 I am a Software Development Engineer (SDE-2) with over 5 years of professional experience and more than 10 years of software development contributions. As the founder of Cmakers and creator of multiple innovative projects, I specialize in full-stack development, systems programming, and AI research.
-
+~ Malaysia 
 
 ## Current Work & Research
 - **AI Research**: Published researcher in ML and AI with peer-reviewed work on:
@@ -73,9 +73,6 @@ I am a Software Development Engineer (SDE-2) with over 5 years of professional e
 ## Connect with Me
 
 <p align="left">
- <a href="https://www.linkedin.com/in/ajwebdev/" target="_blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
- </a>
  <a href="mailto:5minutepodcastforyou@gmail.com" target="_blank">
    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
  </a>
