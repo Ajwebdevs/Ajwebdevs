@@ -1,4 +1,4 @@
-# Hi, I'm Arjun S. Nair
+# Hi, I'm Arjun S
 
 **Ml/AI Developer & AI Researcher | Microsoft Student Ambassador | Postman Student Leader**
 
